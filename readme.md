@@ -9,3 +9,6 @@ git log --oneline
 git commit --amend
 git commit --amend -m "Nuevo mensaje"
 git diff
+
+git switch -c <nueva rama>
+git branch
