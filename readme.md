@@ -1,4 +1,4 @@
-git config --list:w
+git config --list
 
 git add --all
 git commit -m ""
